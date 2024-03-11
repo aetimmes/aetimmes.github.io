@@ -1,8 +1,8 @@
 # Site settings
-title:       timmesblog
-email:       andrew.timmes@gmail.com
+title:       t.imm.es 
+email:       andrew@t.imm.es
 author:      Andrew Timmes
-description: "the world's foremost expert on getting 30% of the way to deploying a UT99 server on bare-metal Kubernetes"
+description: "'insufferable tryhard'"
 baseurl:     ""
 url:         "https://aetimmes.github.io"
 date_format: "%b %-d, %Y"
